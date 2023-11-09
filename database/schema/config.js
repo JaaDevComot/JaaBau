@@ -9,10 +9,10 @@ export class Config {
     let config = db.config;
     if(!config) db.config = {};
     if(config) {
-      if(!("authorName" in config)) db.config.authorName = "Jaa X Arifi";
-      if(!("authorNumber" in config)) db.config.authorNumber = ["6283838077485","6283193905842"];
-      if(!("mods" in config)) db.config.mods = ["6283838077485","6283193905842"];
-      if(!("prems" in config)) db.config.prems = ["6283838077485","6283193905842"];
+      if(!("authorName" in config)) db.config.authorName = "Jaa";
+      if(!("authorNumber" in config)) db.config.authorNumber = ["6283838077485"];
+      if(!("mods" in config)) db.config.mods = ["6283838077485"];
+      if(!("prems" in config)) db.config.prems = ["6283838077485"];
       if(!("botName" in config)) db.config.botName = "Uno-MD";
       if(!("changelogV1" in config)) db.config.changelogV1 = [
         {
@@ -48,10 +48,10 @@ export class Config {
         }
       ];
     } else db.config = {
-      authorName: "Jaa X Arifi",
-      authorNumber: ["6283838077485","6283193905842"],
-      mods: ["6283838077485","6283193905842"],
-      prems: ["6283838077485","6283193905842"],
+      authorName: "Jaa",
+      authorNumber: ["6283838077485"],
+      mods: ["6283838077485"],
+      prems: ["6283838077485"],
       botName: "Uno-MD",
       changelogV1: [
         {
