@@ -1,0 +1,217 @@
+{
+  "authorName": "Arifi Razzaq",
+  "authorNumber": [
+    "6283193905842",
+    "6285763538115"
+  ],
+  "mods": [
+    "6283193905842"
+  ],
+  "prems": [
+    "6283193905842"
+  ],
+  "botName": "Quarter-MD",
+  "chat": 0,
+  "changelogV1": [
+    {
+      "version": "",
+      "description": "",
+      "added": "",
+      "time": ""
+    }
+  ],
+  "changelogV2": [
+    {
+      "version": "",
+      "description": "",
+      "update": "",
+      "time": ""
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699028483021
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699028663449
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699028953946
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699029161000
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699029873245
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699030054454
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699036258219
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699038741887
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699060530796
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699062387389
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699062463422
+    },
+    {
+      "description": "-",
+      "update": "rm",
+      "time": 1699064064019
+    },
+    {
+      "description": "-",
+      "update": "rm",
+      "time": 1699064528365
+    },
+    {
+      "description": "-",
+      "update": "rm",
+      "time": 1699064580576
+    },
+    {
+      "description": "-",
+      "update": "rm",
+      "time": 1699064661729
+    },
+    {
+      "description": "-",
+      "update": "rm",
+      "time": 1699066467705
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072235970
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072329986
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072462031
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072527549
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072618315
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072753457
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699072829719
+    },
+    {
+      "description": "-",
+      "update": "addowner",
+      "time": 1699073367278
+    },
+    {
+      "description": "-",
+      "update": "changelog",
+      "time": 1699078400030
+    },
+    {
+      "description": "-",
+      "update": "donate",
+      "time": 1699078828799
+    },
+    {
+      "description": "-",
+      "update": "add",
+      "time": 1699081092554
+    },
+    {
+      "description": "-",
+      "update": "add",
+      "time": 1699081109130
+    },
+    {
+      "description": "-",
+      "update": "kick",
+      "time": 1699081632348
+    },
+    {
+      "description": "-",
+      "update": "add",
+      "time": 1699081687110
+    },
+    {
+      "description": "-",
+      "update": "unblock",
+      "time": 1699081905141
+    },
+    {
+      "description": "-",
+      "update": "checklimit",
+      "time": 1699082414326
+    },
+    {
+      "description": "-",
+      "update": "checklimit",
+      "time": 1699082478869
+    },
+    {
+      "description": "-",
+      "update": "checklimit",
+      "time": 1699082617228
+    }
+  ],
+  "createlist": [
+    {
+      "sewa": [],
+      "premium": []
+    }
+  ],
+  "isPublic": true,
+  "description": "Subscribe Channel Youtube: Arifi Razzaq Ofc, Untuk Informasi Update Script Bot WhatsApp Terbaru.",
+  "idGroupInfo": "",
+  "anticall": false,
+  "apikey": [
+    {
+      "https://api.zahwazein.xyz": "",
+      "https://skizo.tech": ""
+    }
+  ]
+}
