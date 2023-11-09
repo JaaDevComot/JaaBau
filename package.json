@@ -11,7 +11,7 @@
 "start": "node index.js"
 },
 "author": "Jaa X Uno",
-l"license": "ISC",
+"license": "ISC",
 "dependencies": {
 "@bolaxd/awokwok": "^2.0.0",
 "@kazesolo/console-table": "^1.0.0",
